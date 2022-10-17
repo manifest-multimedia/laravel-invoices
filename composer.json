@@ -1,12 +1,12 @@
 {
-    "name": "manifest/laravel-invoices",
-    "description": "Missing invoices for Laravel",
+    "name": "manifest-multimedia/laravel-invoices",
+    "description": "Laravel Invoices - Based on Laravel Daily's Laravel Invoices",
     "license": "GPL-3.0-only",
     "authors": [
         {
-            "name": "David Lun",
-            "email": "mysticcode@gmail.com",
-            "homepage": "https://lun.lt",
+            "name": "Johnson Sebire",
+            "email": "johnson@manifestghana.com",
+            "homepage": "https://manifestghana.com",
             "role": "Developer"
         }
     ],
