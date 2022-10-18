@@ -1,6 +1,6 @@
 This package is based on Laravel Daily's Laravel Invoices. 
 
-We tweaked this a little for a few internal projects and highly recommend using Laravel Daily's Package available at [link-packagist]: https://packagist.org/packages/laraveldaily/laravel-invoices
+We tweaked this a little for a few internal projects and highly recommend using Laravel Daily's Package available at -[https://packagist.org/packages/laraveldaily/laravel-invoices][link-packagist]
 
 ## Available Methods
 Almost every configuration value can be overrided dynamically by methods.
@@ -80,7 +80,7 @@ $ composer test
 
 ## Security
 
-If you discover any security related issues, please email mysticcode@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email support@manifestghana.com instead of using the issue tracker.
 
 ## Author
 
