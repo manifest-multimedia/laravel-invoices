@@ -91,3 +91,4 @@ If you discover any security related issues, please email mysticcode@gmail.com i
 GPL-3.0-only. Please see the [license file](LICENSE.md) for more information.
 
 [link-author]: https://johnsonsebire.com
+[link-packagist]: https://packagist.org/packages/laraveldaily/laravel-invoices
