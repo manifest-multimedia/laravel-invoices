@@ -84,7 +84,7 @@ If you discover any security related issues, please email mysticcode@gmail.com i
 
 ## Author
 
-- [David Lun][link-author]
+- [Johnson Sebire][link-author]
 
 ## License
 
